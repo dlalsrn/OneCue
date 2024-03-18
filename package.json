@@ -1,0 +1,31 @@
+{
+  "name": "one-cue-backend",
+  "version": "1.0.0",
+  "description": "One Cue Back-End code by Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Ryan-Yonghyun-Lee@bitbucket.org/Ryan-Yonghyun-Lee/one-cue-backend.git"
+  },
+  "author": "One Cue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/Ryan-Yonghyun-Lee/one-cue-backend/issues"
+  },
+  "homepage": "https://bitbucket.org/Ryan-Yonghyun-Lee/one-cue-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "passport": "^0.6.0",
+    "passport-kakao": "^1.0.1",
+    "sequelize": "^6.23.0"
+  }
+}

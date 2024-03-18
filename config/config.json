@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "api_connect_user",
+    "password": "vFDfsLJlhctSIy5yp",
+    "database": "OneCue_DEV_DB",
+    "host": "45.120.69.220",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "api_connect_user",
+    "password": "vFDfsLJlhctSIy5yp",
+    "database": "OneCue_TEST_DB",
+    "host": "45.120.69.220",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "9kLCdhGBGGbs09hHI",
+    "database": "OneCueDB",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
